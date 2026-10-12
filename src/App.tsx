@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, createContext, useContext } from "react"
 import logoImg from "@/imports/Artboard-12.png"
-import photoImg from "@/imports/pic.jpg"
+import photoImg from "@/imports/Badr_Hamdaoui_PPic_.jpg"
 import showreelPreview from "@/imports/P1-2.png"
 import kontaktCampaignImg from "@/imports/Artboard_1.png"
 import videoClipsImg from "@/imports/29541389_1825090014462357_4788868206959788032_n.jpg"
